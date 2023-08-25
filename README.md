@@ -1,14 +1,17 @@
-===========================terminal base chatting program========================
 
-The program is a simple command line interface chat room using socket programming.
-Multiple clients can connect and send/receive messages in the room,
-The GUI of the program is under developing with Django Rest Framework
-to know how it works, kindly look up the screenshort in Image directory
-How to work with it.
+Socket-based Chat Program
 
+A simple chat program implemented in Python using socket programming. This program allows multiple clients to communicate with each other through a central server.
+Getting Started
+Prerequisites
 
+    Python 3.x
 
+Installation
 
+Clone the repository:
+
+https://github.com/ethic-bakeery/rafsan.git
 
 Run the server:
 
@@ -51,6 +54,5 @@ Troubleshooting
 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-License
 
-T
+Feel free to modify and expand on this template according to the specific details of your chat program. Make sure to replace placeholder names, URLs, and descriptions with the actual information about your project.
