@@ -2,20 +2,23 @@
 Socket-based Chat Program
 
 A simple chat program implemented in Python using socket programming. This program allows multiple clients to communicate with each other through a central server.
+I have attached some pictures for your reference. Additionally, stay tuned to our GitHub page for updates on the GUI version of the program, based on the Django REST framework. It's currently under development.
+
 Getting Started
+
 Prerequisites
 
     Python 3.x
 
 Installation
 
-Clone the repository:
+    Clone the repository:
 
-https://github.com/ethic-bakeery/rafsan.git
+    https://github.com/ethic-bakeery/rafsan.git
 
-Run the server:
+    Run the server:
 
-python server.py
+    python server.py
 
 Run multiple client sessions in separate terminal windows:
 
@@ -49,7 +52,7 @@ Commands
 
 Troubleshooting
 
-    If the server is running on a different machine, update the SERVER_IP variable in client.py to the server's IP address.
+    If the server is running on a different machine, update the SERVER_IP variable in client.py to the server's IP address, or a port is currently on use, kindly switch to different port, the server is configure to use port 55555 bt defualt.
 
 Contributing
 
